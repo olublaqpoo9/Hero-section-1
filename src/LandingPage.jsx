@@ -24,7 +24,7 @@ const LandingPage = () => {
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis accusantium itaque aperiam, <br /> aliquid porro numquam corrupti, quae, ex animi .</p>
                     <div className='buttons'>
                         <button>GET STARTED</button>
-                        <button id='btn' >INVEST in us</button>
+                        <button id='btn' >INVEST</button>
                     </div>
 
               </div>
